@@ -1,0 +1,4 @@
+# Optional extras for the cross-dataset experiments (src/phase8_cross_dataset_dl.py).
+# Kaggle and Colab already have these installed.
+transformers
+datasets
